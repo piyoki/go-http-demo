@@ -8,6 +8,7 @@ import (
 	"os"
 )
 
+// just adding space for testing
 func main() {
 	host := os.Getenv("SERVER_HOST")
 
